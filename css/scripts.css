@@ -1,9 +1,25 @@
-body{
-  background-image: url(../img/landing.jpg);
-  padding: 2;
-  background-size: contain;
+.jumbotron{
+  background-image: url(../img/backgrounds/landing.jpg)
 }
+.class,.party{
+	padding-top: 45px;
+	padding-bottom: 45px;
+}
+#breakfast{
+
 .logo{
-  padding-left: 40%;
-  padding-right: 10%;
+padding-left: 40%;
+padding-top: 10%;
+}
+
+.body {
+    color: white
+}
+
+.head{
+    text-align: center;
+    color: white
+    font-family: 'IBM Plex Serif', serif;
+    padding-left: 5%;
+
 }
