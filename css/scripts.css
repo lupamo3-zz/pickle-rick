@@ -1,0 +1,9 @@
+body{
+  background-image: url(../img/landing.jpg);
+  padding: 2;
+  background-size: contain;
+}
+.logo{
+  padding-left: 40%;
+  padding-right: 10%;
+}
