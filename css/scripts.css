@@ -6,7 +6,20 @@
 	padding-bottom: 45px;
 }
 #breakfast{
-
+  background-image: url(../img/foodtop/breakfast.jpg);
+	background-size: cover;
+	padding: 45px;
+}
+#lunch{
+	background-image: url(../img/foodtop/lunch.jpg);
+	background-size: cover;
+	padding: 45px;
+}
+#dinner{
+	background-image: url(../img/foodtop/dinner.jpg);
+	background-size: cover;
+	padding: 45px;
+}
 .logo{
 padding-left: 40%;
 padding-top: 10%;
@@ -22,4 +35,7 @@ padding-top: 10%;
     font-family: 'IBM Plex Serif', serif;
     padding-left: 5%;
 
+}
+.col-md-3{
+  padding: 0;
 }
