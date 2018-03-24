@@ -1,32 +1,67 @@
+
 .jumbotron{
-  background-image: url(../img/backgrounds/landing.jpg)
+  background-image: url(../img/backgrounds/landing.jpg);
+  background-repeat: no-repeat;
+  height:70vh;
+  ;
+  margin: 0vh;
+  padding-right: 0px;
+  background-size: cover;
+
 }
-.class,.party{
-	padding-top: 45px;
-	padding-bottom: 45px;
+/* .col-md-3{
+  border: 1px solid red;
+  margin:0px;
+}
+
+ */
+ .col-md-3{
+   padding: 0px;
+   margin: 0%;
+ }
+.tworows{
+  height: 100%;
+  margin: 0px;
+}
+.party{
+  height: 60px;
+  background-color: #ff7433;
+    margin: 0px;
+}
+.happy{
+  height: 60px;
+    margin: 0px;
+  background-color: #f1e9e5;
 }
 #breakfast{
   background-image: url(../img/foodtop/breakfast.jpg);
 	background-size: cover;
-	padding: 45px;
+	padding: 50px;
+  margin: 0px;
+
 }
 #lunch{
 	background-image: url(../img/foodtop/lunch.jpg);
 	background-size: cover;
-	padding: 45px;
+	padding: 50px;
+    margin: 0px
 }
 #dinner{
 	background-image: url(../img/foodtop/dinner.jpg);
 	background-size: cover;
-	padding: 45px;
+	padding: 50px;
+  margin: 0px;
 }
 .logo{
 padding-left: 40%;
-padding-top: 10%;
+padding-bottom: 0%;
+padding-top: 0%;
 }
 
 .body {
     color: white
+    margin: 0;
+ padding: 0;
 }
 
 .head{
@@ -36,6 +71,11 @@ padding-top: 10%;
     padding-left: 5%;
 
 }
-.col-md-3{
-  padding: 0px;
+.container-fluid{
+  width:100%;
+  margin-top: 0%;
+ padding: 0;
 }
+.row{
+margin: 0%;
+} */
