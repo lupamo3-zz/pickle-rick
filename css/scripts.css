@@ -3,7 +3,6 @@
   background-image: url(../img/backgrounds/landing.jpg);
   background-repeat: no-repeat;
   height:70vh;
-  ;
   margin: 0vh;
   padding-right: 0px;
   background-size: cover;
@@ -18,10 +17,14 @@
  .col-md-3{
    padding: 0px;
    margin: 0%;
+   text-align: center;
+
  }
 .tworows{
   height: 100%;
   margin: 0px;
+  text-align: center;
+   font-size: 16px;
 }
 .party{
   height: 60px;
@@ -38,19 +41,21 @@
 	background-size: cover;
 	padding: 50px;
   margin: 0px;
-
+  color: white;
 }
 #lunch{
 	background-image: url(../img/foodtop/lunch.jpg);
 	background-size: cover;
 	padding: 50px;
-    margin: 0px
+    margin: 0px;
+    color: white;
 }
 #dinner{
-	background-image: url(../img/foodtop/dinner.jpg);
+	background-image: url(../img/foodtop/dinner2.jpg);
 	background-size: cover;
 	padding: 50px;
   margin: 0px;
+  color: white;
 }
 .logo{
 padding-left: 40%;
@@ -66,9 +71,10 @@ padding-top: 0%;
 
 .head{
     text-align: center;
-    color: white
+    color: white;
     font-family: 'Caveat', cursive;
     padding-left: 5%;
+    font-size: 30px;
 
 }
 .container-fluid{
@@ -78,4 +84,4 @@ padding-top: 0%;
 }
 .row{
 margin: 0%;
-} */
+}
