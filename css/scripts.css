@@ -29,7 +29,7 @@
 .party{
   height: 60px;
   background-color: #ff7433;
-    margin: 0px;
+  margin: 0px;
 }
 .happy{
   height: 60px;
@@ -84,4 +84,21 @@ padding-top: 0%;
 }
 .row{
 margin: 0%;
+}
+.gallery{
+  background-color: white;
+   width: 200px;
+   border:  3px solid #ff7433;
+   padding: 0px;
+   margin-top: 0px;
+   margin-bottom: 50px;
+   margin-left: 300px;
+}
+.colmd{
+margin-top: 50px;
+margin-right: 50px;
+margin-left: 50px;
+}
+.colmd1{
+
 }
