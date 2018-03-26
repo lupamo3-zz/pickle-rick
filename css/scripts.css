@@ -208,14 +208,12 @@ form {
 
 .container {
     padding: 2px;
-    background-color: #f1f1f1;
 }
 
 input[type=text], input[type=submit] {
     width: 50%;
     padding: 12px;
-    margin: 8px 0;
-    display: inline-block;
+    margin-right: 10px;
     border: 1px solid #ff7433;
     box-sizing: border-box;
 }
@@ -232,4 +230,13 @@ input[type=submit] {
 
 input[type=submit]:hover {
     opacity: 0.8;
+}
+.bottom{
+  background-color: #ff7433;
+  /* background-size: cover;
+  background-repeat: no-repeat; */
+  height:40vh;
+  margin top:0px;
+  font-family: 'Berkshire Swash', cursive;
+  color: white;
 }
