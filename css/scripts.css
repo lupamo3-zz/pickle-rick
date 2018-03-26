@@ -55,6 +55,9 @@
     color: white;
     font-family: 'Berkshire Swash', cursive;
 }
+#red{
+  color: #ff7433;
+}
 #dinner{
 	background-image: url(../img/foodtop/dinner2.jpg);
 	background-size: cover;
@@ -73,7 +76,6 @@ font-family: 'Berkshire Swash', cursive;
     color: white
     margin: 0;
  padding: 0;
-
 }
 
 .head{
@@ -128,8 +130,8 @@ font-family: 'Berkshire Swash', cursive;
 }
 .cust{
   border: 3px solid silver;
-  margin-right: 50px;
-  margin-left: 50px;
-  margin-top: 50px;
+  margin-right: 70px;
+  margin-left: 70px;
+  margin-top: 70px;
   font-family: 'Berkshire Swash', cursive;
 }
