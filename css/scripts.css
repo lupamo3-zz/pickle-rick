@@ -2,7 +2,7 @@
 .jumbotron{
   background-image: url(../img/backgrounds/landing.jpg);
   background-repeat: no-repeat;
-  height:70vh;
+  height:80vh;
   margin: 0vh;
   padding-right: 0px;
   background-size: cover;
@@ -134,4 +134,13 @@ font-family: 'Berkshire Swash', cursive;
   margin-left: 70px;
   margin-top: 70px;
   font-family: 'Berkshire Swash', cursive;
+}
+.tomatoe{
+  background-image: url(..//img/backgrounds/subscribe.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  height:50vh;
+  margin top:0px;
+  font-family: 'Berkshire Swash', cursive;
+  color: white;
 }
