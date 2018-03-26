@@ -169,7 +169,7 @@ font-family: 'Berkshire Swash', cursive;
     top: 25%;
     width: 100%;
     text-align: center;
-    margin-top: 30px; 
+    margin-top: 30px;
 }
 
 
@@ -200,4 +200,36 @@ font-family: 'Berkshire Swash', cursive;
         top: 15px;
         right: 35px;
     }
+}
+/* Add some padding and a grey background color to containers */
+form {
+    border: 4px;
+}
+
+.container {
+    padding: 2px;
+    background-color: #f1f1f1;
+}
+
+input[type=text], input[type=submit] {
+    width: 50%;
+    padding: 12px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ff7433;
+    box-sizing: border-box;
+}
+
+input[type=checkbox] {
+    margin-top: 1px;
+}
+
+input[type=submit] {
+    background-color: #ff7433;
+    color: white;
+    border: none;
+}
+
+input[type=submit]:hover {
+    opacity: 0.8;
 }
