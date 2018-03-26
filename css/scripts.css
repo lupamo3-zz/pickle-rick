@@ -6,7 +6,7 @@
   margin: 0vh;
   padding-right: 0px;
   background-size: cover;
-
+  font-family: 'Berkshire Swash', cursive;
 }
 /* .col-md-3{
   border: 1px solid red;
@@ -18,23 +18,26 @@
    padding: 0px;
    margin: 0%;
    text-align: center;
-
+   font-family: 'Berkshire Swash', cursive;
  }
 .tworows{
   height: 100%;
   margin: 0px;
   text-align: center;
-   font-size: 16px;
+   font-size: 20px;
+   font-family: 'Berkshire Swash', cursive;
 }
 .party{
   height: 60px;
   background-color: #ff7433;
   margin: 0px;
+  font-family: 'Berkshire Swash', cursive;
 }
 .happy{
   height: 60px;
     margin: 0px;
   background-color: #f1e9e5;
+  font-family: 'Berkshire Swash', cursive;
 }
 #breakfast{
   background-image: url(../img/foodtop/breakfast.jpg);
@@ -42,6 +45,7 @@
 	padding: 50px;
   margin: 0px;
   color: white;
+  font-family: 'Berkshire Swash', cursive;
 }
 #lunch{
 	background-image: url(../img/foodtop/lunch.jpg);
@@ -49,6 +53,7 @@
 	padding: 50px;
     margin: 0px;
     color: white;
+    font-family: 'Berkshire Swash', cursive;
 }
 #dinner{
 	background-image: url(../img/foodtop/dinner2.jpg);
@@ -56,17 +61,19 @@
 	padding: 50px;
   margin: 0px;
   color: white;
+  font-family: 'Berkshire Swash', cursive;
 }
 .logo{
 padding-left: 40%;
 padding-bottom: 0%;
 padding-top: 0%;
+font-family: 'Berkshire Swash', cursive;
 }
-
 .body {
     color: white
     margin: 0;
  padding: 0;
+
 }
 
 .head{
@@ -93,12 +100,14 @@ margin: 0%;
    margin-top: 0px;
    margin-bottom: 50px;
    margin-left: 300px;
+   font-family: 'Berkshire Swash', cursive;
 }
 .colmd{
 margin-top: 50px;
 margin-right: 50px;
 margin-left: 50px;
 border:  3px solid silver;
+font-family: 'Berkshire Swash', cursive;
 }
 .colmd1{
   margin-top: 50px;
@@ -106,6 +115,7 @@ border:  3px solid silver;
   margin-left: 50px;
   border:  3px solid silver;
   margin-bottom: 50px;
+  font-family: 'Berkshire Swash', cursive;
 }
 .bg2{
     background-image: url(../img/backgrounds/foodsBg.jpg);
@@ -114,4 +124,12 @@ border:  3px solid silver;
     height:60vh;
     margin top:50px;
     padding-right: 0px;
+    font-family: 'Berkshire Swash', cursive;
+}
+.cust{
+  border: 3px solid silver;
+  margin-right: 50px;
+  margin-left: 50px;
+  margin-top: 50px;
+  font-family: 'Berkshire Swash', cursive;
 }
