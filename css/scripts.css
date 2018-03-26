@@ -98,7 +98,20 @@ margin: 0%;
 margin-top: 50px;
 margin-right: 50px;
 margin-left: 50px;
+border:  3px solid silver;
 }
 .colmd1{
-
+  margin-top: 50px;
+  margin-right: 50px;
+  margin-left: 50px;
+  border:  3px solid silver;
+  margin-bottom: 50px;
+}
+.bg2{
+    background-image: url(../img/backgrounds/foodsBg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:60vh;
+    margin top:50px;
+    padding-right: 0px;
 }
