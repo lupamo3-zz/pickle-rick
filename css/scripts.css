@@ -249,3 +249,12 @@ input[type=submit]:hover {
   padding: 0px;
   border: 0px;
 }
+.bug{
+  padding: 0px;
+  margin: 0px;
+}
+.nav-tabs > li {
+    float: left;
+    margin-bottom: -1px;
+    width: 25%;
+}
