@@ -235,7 +235,7 @@ input[type=submit]:hover {
   background-color: #ff7433;
   /* background-size: cover;
   background-repeat: no-repeat; */
-  height:40vh;
+  height:50vh;
   margin top:0px;
   font-family: 'Berkshire Swash', cursive;
   color: white;
@@ -270,8 +270,11 @@ input[type=submit]:hover {
   background-color: #ff7433;
   background-size: cover;
   background-repeat: no-repeat;
-  height:30vh;
+  height:40vh;
   margin top:0px;
   font-family: 'Berkshire Swash', cursive;
   color: white;
+}
+#align{
+  text-align: center;
 }
