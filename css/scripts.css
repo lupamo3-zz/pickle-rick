@@ -240,3 +240,12 @@ input[type=submit]:hover {
   font-family: 'Berkshire Swash', cursive;
   color: white;
 }
+.serro{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+.col-md-4{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
