@@ -258,3 +258,11 @@ input[type=submit]:hover {
     margin-bottom: -1px;
     width: 25%;
 }
+.nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
+
+    color: #F15A29;
+    cursor: default;
+    background-color: #fff;
+    border: 0.5px solid #ddd;
+    border-bottom-color: transparent;
+}
