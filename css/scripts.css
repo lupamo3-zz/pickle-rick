@@ -211,7 +211,7 @@ form {
 }
 
 input[type=text], input[type=submit] {
-    width: 50%;
+    width: 35%;
     padding: 12px;
     margin-right: 10px;
     border: 1px solid #ff7433;
